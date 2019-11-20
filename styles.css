@@ -65,7 +65,7 @@ hr{
     position: relative;
     padding-top: 50px;
     margin: 0px;
-    background-color: #9ce0f1;
+    background-color: rgb(238, 196, 196);
 }
 
 .profile{
@@ -96,7 +96,7 @@ hr{
 }
 
 .bot{
-    background-color: rgb(238, 196, 196);
+    background-color: #9ce0f1;
     padding: 10px 0px 10px 0px;
     margin: 0px;
 }
