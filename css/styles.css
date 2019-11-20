@@ -39,7 +39,7 @@ hr{
 
 .skill-row{
     width: 70%;
-    margin: 50px auto 80px auto;
+    margin: 50px auto 100px auto;
     padding-bottom: 25px;
     text-align: left;
     line-height: 2;
@@ -52,10 +52,9 @@ hr{
     margin: 100px auto 0px auto;
 }
 
-#fan{
+#sub{
     font-family: 'Times New Roman', Times, serif;
     font-size: 2rem;
-    font-weight: lighter;
     color: #177a7a;
     margin: 10px auto 20px auto;
 }
