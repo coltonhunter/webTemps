@@ -70,7 +70,7 @@ hr{
 
 .profile{
     font-family: sans-serif;
-    margin: 25px auto 55px auto;
+    margin: 25px auto 70px auto;
     width: 75%;
     line-height: 2;
 }
@@ -102,5 +102,5 @@ hr{
 }
 
 .skills{
-    padding: 10px 0px 20px 0px;
+    padding: 25px 0px 20px 0px;
 }
