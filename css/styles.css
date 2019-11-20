@@ -38,7 +38,7 @@ hr{
 }
 
 .skill-row{
-    width: 50%;
+    width: 60%;
     margin: 50px auto 80px auto;
     text-align: left;
     line-height: 2;
@@ -70,7 +70,7 @@ hr{
 .profile{
     font-family: sans-serif;
     margin: 25px auto 55px auto;
-    width: 50%;
+    width: 65%;
 }
 
 .images{
