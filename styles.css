@@ -35,6 +35,7 @@ hr{
     border-top-style: dotted;
     border-color:  rgb(149, 173, 182);
     border-width: 6px;
+    padding: 15px 0px 15px 0px;
 }
 
 .skill-row{
